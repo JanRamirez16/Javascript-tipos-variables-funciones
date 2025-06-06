@@ -14,3 +14,20 @@ console.log(edad + Number(edadUsuario)); //convertir un string a numero
 console.log(String(edad) + edadUsuario);//convertir un numero a string
 
 console.log(edad.toString() + edadUsuario);// con .toString lo que hacemos es decirle a edad lo tome com String
+
+
+let usuarioConectado = false;
+console.log(String(usuarioConectado)); // esto realizará un conversión del tipo de dato booleano para string, va a mostrar un string igual a “false”.
+usuarioConectado = true;
+console.log(String(usuarioConectado)); // ahora tendremos un string igual a “true”.
+
+/*Podemos convertir un string a numero poniendo un + antes de la variable por ejemplo */
+let ancho = "10";
+let alto = "5";
+console.log( + ancho * + alto); // obtendremos una conversión de String para números usando el signo + antes de las variables.
+
+/*Si tru y false lo queremos convertir a number nos devolvera un 0 y 1 */
+let usuarioConectado2 = false;
+console.log(Number(usuarioConectado2)); // obtendremos una conversión de dato booleano para número, en ese caso false (falso) retorna el número 0.
+usuarioConectado2 = true;
+console.log(Number(usuarioConectado2)); // ahora obtendremos la conversión del valor booleano para valor numerico, en ese caso true (verdadero) retorna el número 1.
