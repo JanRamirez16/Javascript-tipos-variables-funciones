@@ -1,0 +1,14 @@
+STRINGS-----------------------------------
+https://www.aluracursos.com/blog/strings-con-javascript-que-son-y-como-manipularlas
+
+consola de nodejs--------------------------
+https://nodejs.org/api/console.html
+
+Expresiones y operadores-------------------------
+https://developer.mozilla.org/es/docs/Web/JavaScript/Guide/Expressions_and_operators
+
+SOFTWARE DE VERSONAMIENTO-------------------
+https://ljcl79.medium.com/sistemas-de-versionamiento-qu%C3%A9-son-y-como-nos-ayudan-3fef83f3e33
+
+GITHUB----------------------------------
+https://github.com/alura-es-cursos/1998-Javascriipt-tipos-variables-funciones/tree/Aula5
